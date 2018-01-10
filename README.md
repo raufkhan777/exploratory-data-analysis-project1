@@ -1,1 +1,1 @@
-# expolratory-data-analysis-project1
+# exploratory-data-analysis-project1
